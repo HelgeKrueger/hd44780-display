@@ -1,0 +1,12 @@
+display:
+    RS: 21
+    E: 20
+    DATA4: 12 
+    DATA5: 25
+    DATA6: 24
+    DATA7: 23
+messages:
+    displayTime: 3
+    messageFolder: /tmp/messages
+waittime: 3
+
